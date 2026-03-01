@@ -37,17 +37,17 @@ The study focuses on the following 14 variables:
 | Population | Total Population | Total national population. | World Bank |
 
 ## Descriptive Statistics
-The following table presents descriptive statistics for the 5 most important individual-level variables based on the `2000_WVS_data.csv` sample. 
+The following table presents descriptive statistics for the 5 most important individual-level variables based on the `2000_WVS_data.csv` sample.
 
 > **Note:** Negative values representing "No answer" or "Don't know" in the raw data were treated as missing (`NA`).
 
 | Variable | Mean | StdDev | Min | Max | N |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Q71 (Gov. Trust) | 2.54 | 0.98 | 1 | 4 | 1,892 |
-| Q287 (Social Class) | 3.21 | 1.05 | 1 | 5 | 1,945 |
-| Q262 (Age) | 43.12 | 16.85 | 18 | 98 | 2,000 |
-| Q275 (Education) | 4.85 | 2.15 | 1 | 8 | 1,978 |
-| Q288 (Income Decile) | 4.92 | 2.31 | 1 | 10 | 1,812 |
+| Q71 | 2.66 | 0.981 | 1 | 4 | 1943 |
+| Q287 | 3.25 | 0.972 | 1 | 5 | 1887 |
+| Q262 | 43.2 | 16.5 | 16 | 99 | 1996 |
+| Q275 | 3.47 | 2.03 | 0 | 8 | 1987 |
+| Q288 | 4.89 | 2.08 | 1 | 10 | 1955 |
 
 ## Survey Timing and Consequences
 The Wave 7 survey spans a significant period of global change (2017–2022).
